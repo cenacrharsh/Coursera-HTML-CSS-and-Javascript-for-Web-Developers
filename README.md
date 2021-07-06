@@ -1,7 +1,7 @@
 # [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?)
 ## by Johns Hopkins University
 
-## [Final Project](https://cenacrharsh.github.io/David-Chu-s-China-Bistro/)
+## [Final Project Demo](https://cenacrharsh.github.io/David-Chu-s-China-Bistro/)
 
 ### WEEK 1 - Introduction to HTML5
 
